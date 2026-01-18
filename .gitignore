@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+dane AG/
+low-dimensional/
+large_scale/
+low-dimensional-optimum/
+large_scale-optimum/
+
+wyniki_eksperymentu/
+*.png
+
+.vscode/
+.idea/
